@@ -1,7 +1,7 @@
 // Commit Number One
 function printHelloWorld() 
 {
-    console.log("Hello, ITI!");
+    console.log("Hello, ITI Students");
 }
 
 function printNumbers() 
