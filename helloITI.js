@@ -6,8 +6,8 @@ function printHelloWorld()
 
 function printNumbers() 
 {
-    let num1 = 9;
-    let num2 = 9;
+    let num1 = 5;
+    let num2 = 3;
     let res  = num1 + num2;
     console.log(res);
 }
