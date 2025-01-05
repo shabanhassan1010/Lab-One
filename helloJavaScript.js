@@ -3,3 +3,9 @@ function printHelloWorld()
 {
     console.log("Hello From Js , I'm here");
 }
+
+
+function printFun1() 
+{
+    console.log("Function One");
+}
